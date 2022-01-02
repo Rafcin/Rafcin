@@ -37,10 +37,10 @@
 <br />
 <br />
 
-![Raf's GitHub stats](https://stats-kappa-ten.vercel.app/api/?username=rafcin&include_all_commits=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=222222)
+![Raf's GitHub stats](https://stats-kappa-ten.vercel.app/api/?username=rafcin&include_all_commits=true&show_icons=true&title_color=222222&icon_color=222222&text_color=222222&bg_color=fff)
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=rafcin&repo=Template-Vector&title_color=fff&icon_color=fff&text_color=fff&bg_color=222222)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=rafcin&repo=Echo-Rover&title_color=fff&icon_color=fff&text_color=fff&bg_color=222222)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=rafcin&repo=Template-Vector&title_color=222222&icon_color=222222&text_color=222222&bg_color=fff)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=rafcin&repo=Echo-Rover&title_color=222222&icon_color=222222&text_color=222222&bg_color=fff)
 
 
  
