@@ -1,12 +1,4 @@
 ### Hi there, I'm Raf | [Rafcin][website] 👋 
-
-## About
-
-- 🌮 I created [TacoTuesday.com][taco]
-- 👾 I'm currently working on a react hooks library and theming tool to help developers get up and running faster
-- 📜 I'm working on creating my own sans serif font for anyone to use in production apps
-- ⚡ Fun fact: I love to hike and mountain bike
-
 ### Connect:
 
 [<img align="left" alt="Rafcin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
